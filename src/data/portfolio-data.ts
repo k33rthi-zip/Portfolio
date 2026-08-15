@@ -17,7 +17,7 @@ import type {
 
 export const personalInfo: PersonalInfo = {
   name: "Keerthi Pawar Mamidi",
-  title: "...",
+  title: "2nd Year CS Specialist at University of Toronto",
   location: { city: "Toronto, ON", country: "Canada" },
   website: "keerthipawarmamidi.com",
   email: "keerthipawaronline@gmail.com",
