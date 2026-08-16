@@ -55,13 +55,11 @@ export default function MountainHero() {
         className="relative z-20 flex min-h-screen flex-col items-center justify-center px-6 pt-24 pb-24 text-center"
       >
         <span className="rounded-full border border-pine/25 bg-cream/70 px-4 py-1.5 text-sm font-bold uppercase tracking-widest text-pine">
-          UofT CS · 2025 Schulich Leader
+          2025 Schulich Leader
         </span>
         <h1 className="text-display mt-6 text-pine-deep">{personalInfo.name}</h1>
         <p className="text-lead mt-5 max-w-reading font-semibold text-pine">
-          {personalInfo.title} — building things with the same patience it takes to
-          climb a ridge. Scroll down and walk the route with me: peaks, rivers, and
-          finally solid ground.
+          {personalInfo.title} 
         </p>
         <HeroLinks />
       </motion.div>
